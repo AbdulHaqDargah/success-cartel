@@ -12,3 +12,5 @@ Step 3: Executive Synthesis
 ## Transformation
 
 Operational → Behavioral → Strategic
+
+This workflow converts fragmented account data into structured strategic decisions.
