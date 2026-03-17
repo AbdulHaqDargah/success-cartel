@@ -54,6 +54,10 @@ Key Insights:
 - Identify patterns (not just metrics)
 - Highlight gaps between expected vs actual behavior
 
+Adoption Gap:
+- Compare invited vs active vs completion
+- Identify where the largest drop-off occurs
+- 
 Primary Adoption Blocker:
 - What is the ONE biggest reason adoption is low?
 
