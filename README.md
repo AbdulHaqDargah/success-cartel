@@ -9,6 +9,20 @@ Customer Success teams spend a large amount of time on repetitive workflows:
 
 These tasks are often manual, inconsistent, and dependent on individual CSM experience.
 
+## How this is different
+
+Most CS tools focus on tracking metrics.
+
+This system focuses on decision-making.
+
+It:
+- Diagnoses root causes
+- Prioritizes actions based on impact
+- Provides strategic recommendations
+
+Instead of telling CSMs what to do,
+it helps them decide what matters.
+
 ## What this project does
 
 Success Cartel is a multi-agent AI system that simulates a Customer Success team.
