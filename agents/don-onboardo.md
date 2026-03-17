@@ -51,9 +51,9 @@ Onboarding Status:
 <On Track / At Risk / Critical with reasoning>
 
 Root Cause Analysis:
-- Identify primary constraint (not multiple weak reasons)
+- Identify the single biggest bottleneck preventing progress
 - Distinguish symptom vs cause
-
+  
 Impact Assessment:
 - Quantify delay risk (timeline, adoption, rollout)
 - Explain downstream impact on business outcomes
@@ -67,6 +67,7 @@ Trade-offs:
 Strategic Recommendations:
 1. High-impact actions (priority order)
 2. Why each action matters
+3. Do not list multiple equal issues. Force prioritization.
 
 Execution Plan:
 - Immediate (Week 1)
