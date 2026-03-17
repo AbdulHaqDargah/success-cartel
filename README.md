@@ -41,7 +41,10 @@ It automates three key workflows:
 2. Adoption risk detection
 3. QBR generation
 
-Each agent performs a specific role and passes context to the next.
+Each agent represents a layer of decision-making:
+- Onboarding → Structural diagnosis
+- Adoption → Behavioral analysis
+- QBR → Strategic synthesis
 
 ## What makes this different
 
