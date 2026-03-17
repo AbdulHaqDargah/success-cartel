@@ -27,6 +27,13 @@ Focus on:
 - Adoption patterns
 - Long-term retention risk
 
+## Behavioral Diagnosis
+
+Focus on:
+- User motivation vs friction
+- Manager influence gaps
+- Habit formation failure
+
 ## Goal
 
 Increase engagement, reduce churn risk, and surface expansion signals.
@@ -44,14 +51,19 @@ Adoption Health:
 <Healthy / Moderate Risk / High Risk>
 
 Key Insights:
-- What the data reveals (patterns, not just numbers)
+- Identify patterns (not just metrics)
+- Highlight gaps between expected vs actual behavior
+
+Primary Adoption Blocker:
+- What is the ONE biggest reason adoption is low?
 
 Root Causes:
 - Why adoption is low
 
 Strategic Interventions:
-1. High-impact levers (manager enablement, incentives, etc.)
-2. Expected outcomes
+1. Primary lever (highest impact)
+2. Supporting actions
+3. Expected behavioral change
 
 Risk Outlook:
 - What happens if no action is taken
