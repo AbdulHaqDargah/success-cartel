@@ -23,3 +23,5 @@ This creates a continuous feedback loop across the customer lifecycle.
 - Standardizes decision-making across CSMs  
 - Reduces variability in execution  
 - Enables scale across large account portfolios  
+
+The system reduces dependency on individual CSM judgment.
