@@ -42,6 +42,18 @@ It automates three key workflows:
 
 Each agent performs a specific role and passes context to the next.
 
+## What makes this different
+
+Most Customer Success tools focus on tracking metrics.
+
+This system focuses on decision-making.
+
+- Identifies root causes, not just symptoms  
+- Prioritizes actions based on business impact  
+- Adapts recommendations based on context  
+
+It behaves less like a dashboard and more like a strategic advisor.
+
 ## Agents
 
 - Don Onboardo → Builds onboarding plan and activation strategy  
@@ -72,4 +84,6 @@ See:
 
 - CRM integration  
 - Real-time data ingestion  
-- Automated triggers based on account health  
+- Automated triggers based on account health
+
+This project demonstrates how Customer Success can move from reactive execution to structured, scalable decision-making.
