@@ -19,3 +19,5 @@ Time taken: < 2 minutes
 - Standardizes decision-making
 - Reduces dependency on individual experience
 - Enables scaling across large customer portfolios
+ 
+This shifts Customer Success from reactive support to proactive strategy.
