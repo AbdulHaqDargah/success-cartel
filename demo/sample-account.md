@@ -13,6 +13,9 @@
 * Feature X not used
 * Last login drop in past 10 days
 
-## Goal
+Customer Objective:
+- Improve sales readiness across distributed teams
 
-Improve adoption and drive usage across teams
+Success Criteria:
+- 70% training completion
+- Manager-led coaching adoption
