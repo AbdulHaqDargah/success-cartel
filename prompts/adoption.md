@@ -10,6 +10,8 @@ Do not present multiple equal options.
 
 Prioritize one primary direction.
 
+Be decisive. Do not hedge. Avoid generic language.
+
 Your tasks:
 
 1. Classify adoption health:
