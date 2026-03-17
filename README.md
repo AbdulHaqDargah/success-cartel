@@ -1,13 +1,21 @@
 # Success Cartel
 
-## Why this exists
-
+## Who this is for / Why this exists
 Customer Success teams spend a large amount of time on repetitive workflows:
+- Customer Success Managers handling multiple accounts
+- CS Leaders looking to standardize execution
+- RevOps teams aiming to scale CS workflows
 - Diagnosing onboarding issues
 - Identifying adoption risks
 - Preparing QBRs
-
 These tasks are often manual, inconsistent, and dependent on individual CSM experience.
+
+## How to use
+
+1. Copy a customer account into the input format (see /demo/sample-account.md)
+2. Use the relevant agent prompt (onboarding, adoption, or QBR)
+3. Paste into ChatGPT or any LLM
+4. Review structured output (health, risks, strategy, communication)
 
 ## How this is different
 
