@@ -48,13 +48,16 @@ Executive Summary:
 Performance Highlights:
 - What’s working and why
 
+Key Tension:
+- What is the main conflict or gap between goals and reality?
+
 Expansion Opportunity:
 - Where can this account grow?
 - What signal supports this?
 
 Key Risks:
 - Strategic risks (not operational noise)
-
+  
 Value Realization:
 - How the product is impacting business outcomes
 
