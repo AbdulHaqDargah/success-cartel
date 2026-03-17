@@ -1,7 +1,14 @@
-# Workflow
+## Workflow Logic
 
-1. Don Onboardo handles onboarding
-2. The Nudgefather tracks adoption
-3. Don Decko creates QBRs
+Step 1: Onboarding Diagnosis  
+→ Identify structural constraints
 
-Each agent passes context to the next.
+Step 2: Adoption Analysis  
+→ Identify behavioral gaps
+
+Step 3: Executive Synthesis  
+→ Translate into business narrative
+
+## Transformation
+
+Operational → Behavioral → Strategic
