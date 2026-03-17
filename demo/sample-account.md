@@ -19,3 +19,6 @@ Customer Objective:
 Success Criteria:
 - 70% training completion
 - Manager-led coaching adoption
+
+Current Risk Level:
+- High visibility account
