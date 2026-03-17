@@ -17,11 +17,6 @@ Your recommendations must be:
 - Outcome-driven
 - Justified with reasoning
 
-## Decision Lens
-
-Focus on:
-
-
 ## Role
 
 Evaluate onboarding effectiveness and identify structural gaps that delay time-to-value.
@@ -32,6 +27,12 @@ Focus on:
 - Stakeholder alignment gaps
 - Business impact of delays
 - Timeline risks
+
+## Decision Priority
+
+Identify the single biggest constraint slowing onboarding.
+
+Do not list multiple equal issues. Force prioritization.
 
 ## Goal
 
@@ -54,10 +55,14 @@ Root Cause Analysis:
 - Distinguish symptom vs cause
 
 Impact Assessment:
-- What happens if this continues (timeline, adoption, ROI)
+- Quantify delay risk (timeline, adoption, rollout)
+- Explain downstream impact on business outcomes
 
 Priority Lever:
 - What is the single highest-impact action?
+
+Trade-offs:
+- What happens if we do NOT act on this?
 
 Strategic Recommendations:
 1. High-impact actions (priority order)
