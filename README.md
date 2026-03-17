@@ -1,32 +1,53 @@
 # Success Cartel
 
-Success Cartel is a set of AI agents designed to run customer success workflows.
+## Why this exists
 
-## Demo
+Customer Success teams spend a large amount of time on repetitive workflows:
+- Diagnosing onboarding issues
+- Identifying adoption risks
+- Preparing QBRs
 
-This is a simple simulation of how Success Cartel works.
+These tasks are often manual, inconsistent, and dependent on individual CSM experience.
 
-👉 See sample account: /demo/sample-account.md
-👉 See agent outputs: /demo/demo-output.md
+## What this project does
 
-Flow:
+Success Cartel is a multi-agent AI system that simulates a Customer Success team.
 
-1. Don Onboardo creates onboarding plan
-2. The Nudgefather identifies risks
-3. Don Decko generates QBR
+It automates three key workflows:
+1. Onboarding planning
+2. Adoption risk detection
+3. QBR generation
 
-This shows how repetitive CS workflows can be automated using AI.
+Each agent performs a specific role and passes context to the next.
 
 ## Agents
 
-* Don Onboardo → onboarding and activation
-* The Nudgefather → adoption and engagement
-* Don Decko → QBR generation
+- Don Onboardo → Builds onboarding plan and activation strategy  
+- The Nudgefather → Identifies adoption risks and recommends actions  
+- Don Decko → Generates QBR insights and narratives  
 
-## What This Repo Does
+## How it works
 
-This repo defines:
+Input: Structured customer data  
+Output: Actionable plans, risk insights, and executive summaries  
 
-* What each agent does
-* How they work together
-* Prompt ideas to automate CS workflows
+This reduces manual analysis time and standardizes CS execution.
+
+## Business Impact
+
+- Faster onboarding decision-making  
+- Consistent risk identification  
+- Reduced CSM effort  
+- Scalable CS workflows  
+
+## Demo
+
+See:
+- /demo/sample-account.md  
+- /demo/demo-output.md  
+
+## Future Scope
+
+- CRM integration  
+- Real-time data ingestion  
+- Automated triggers based on account health  
