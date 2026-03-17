@@ -71,6 +71,7 @@ Strategic Interventions:
 
 Risk Outlook:
 - What happens if no action is taken
+- Future risk: If current behavior continues, what will happen in 30–60 days?
 
 Recommended Strategy:
 - Short-term fixes
