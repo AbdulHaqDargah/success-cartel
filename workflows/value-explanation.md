@@ -20,4 +20,5 @@ Time taken: < 2 minutes
 - Reduces dependency on individual experience
 - Enables scaling across large customer portfolios
  
+It enables consistent decision quality regardless of experience level.
 This shifts Customer Success from reactive support to proactive strategy.
