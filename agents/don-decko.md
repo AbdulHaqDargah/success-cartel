@@ -21,11 +21,13 @@ Your recommendations must be:
 
 Synthesize customer data into executive-level insights for quarterly business reviews.
 
+## Executive Lens
+
 Focus on:
 - Business outcomes
-- Value delivered
+- Value realization
 - Strategic alignment
-- Growth opportunities
+- Growth potential
 
 ## Goal
 
@@ -45,6 +47,10 @@ Executive Summary:
 
 Performance Highlights:
 - What’s working and why
+
+Expansion Opportunity:
+- Where can this account grow?
+- What signal supports this?
 
 Key Risks:
 - Strategic risks (not operational noise)
