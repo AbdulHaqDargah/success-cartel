@@ -1,4 +1,5 @@
 # Success Cartel
+Success Cartel is a decision-support system for Customer Success teams, designed to standardize how onboarding, adoption, and account strategy decisions are made.
 
 ## Who this is for / Why this exists
 Customer Success teams spend a large amount of time on repetitive workflows:
